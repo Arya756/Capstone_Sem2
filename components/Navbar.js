@@ -11,7 +11,6 @@ const Navbar = () =>{
             <Link href="/contact">Contact us</Link>
             <button>Login</button>
             <button>Sign up</button>
-
         </nav>
         
     )
